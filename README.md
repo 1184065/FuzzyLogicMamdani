@@ -22,11 +22,13 @@ Dan juga terdapat Project Risk dengan fuzzyset yaitu : trapesium, segitiga, dan 
 
 Dengan permasalahan bahwa project fundingnya 26% dan project staffingnya 57.5%. 
 Kemudian rulesnya yaitu 
-1. Project Funding output derajat keanggotaanya nya, inadequate = 0.5, marginal = 0.2 dan adequate = 0.0.
+1. Project Funding output derajat keanggotaanyanya, inadequate = 0.5, marginal = 0.2 dan adequate = 0.0.
 2. Project Staffing outputnya derajat keanggotaanya, small = 0,1 dan large = 0.7.
 
 Dengan korelasi aturan dan output seperti berikut : 
+
 ![3](https://user-images.githubusercontent.com/44889084/115139939-f0aa6180-a05e-11eb-91f7-67b86d524c34.PNG)
+
 low = 0.1, normal = 0,2 dan high = 0,5.
 
 Kesimpulan

@@ -6,7 +6,7 @@ Library yang digunakan :
 2. Scikit-Fuzzy
 3. Matplotlib
 
-Terdapat 2 input, yaitu 
+Terdapat 2 input, yaitu :
 
 1. Project Funding dengan fuzzyset yaitu : trapesium, segitiga, dan trapesium. Dengan variable semesta pembicaraannya 0 - 100 untuk resikonya juga memiliki fuzzyset funding yaitu Inadequate, Marginal dan Adequate.
 

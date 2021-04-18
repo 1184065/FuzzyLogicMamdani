@@ -27,6 +27,7 @@ Kemudian rulesnya yaitu
 
 Dengan korelasi aturan dan output seperti berikut : 
 
+![2](https://user-images.githubusercontent.com/44889084/115140123-edfc3c00-a05f-11eb-8b72-0e7b6e799815.PNG)
 
 low = 0.1, normal = 0,2 dan high = 0,5.
 

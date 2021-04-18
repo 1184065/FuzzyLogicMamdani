@@ -7,10 +7,18 @@ Library yang digunakan :
 3. Matplotlib
 
 Terdapat 2 input, yaitu 
+
 1. Project Funding dengan fuzzyset yaitu : trapesium, segitiga, dan trapesium. Dengan variable semesta pembicaraannya 0 - 100 untuk resikonya juga memiliki fuzzyset funding yaitu Inadequate, Marginal dan Adequate.
+
+![pfun](https://user-images.githubusercontent.com/44889084/115139924-dff9eb80-a05e-11eb-8c66-daa228fa124d.PNG)
+
 2. Project Staffing dengan fuzzyset yaitu : trapesium dan trapesium. Dengan variabel semesta pembicaraannya 0 - 100 untuk resikonya juga memiliki fuzzyset staffing yaitu small dan large.
 
+![pstuff](https://user-images.githubusercontent.com/44889084/115139934-eb4d1700-a05e-11eb-813a-22f9825e2ce2.PNG)
+
 Dan juga terdapat Project Risk dengan fuzzyset yaitu : trapesium, segitiga, dan trapesium. Dengan variable semesta pembicaraanya 0 - 100 untuk resikonya juga memiliki fuzzyset risk yaitu low, medium dan high.
+
+![prisk](https://user-images.githubusercontent.com/44889084/115139929-e720f980-a05e-11eb-8599-db3854d6f7be.PNG)
 
 Dengan permasalahan bahwa project fundingnya 26% dan project staffingnya 57.5%. 
 Kemudian rulesnya yaitu 
@@ -18,7 +26,7 @@ Kemudian rulesnya yaitu
 2. Project Staffing outputnya derajat keanggotaanya, small = 0,1 dan large = 0.7.
 
 Dengan korelasi aturan dan output seperti berikut : 
-Gambar 2
+![3](https://user-images.githubusercontent.com/44889084/115139939-f0aa6180-a05e-11eb-91f7-67b86d524c34.PNG)
 low = 0.1, normal = 0,2 dan high = 0,5.
 
 Kesimpulan

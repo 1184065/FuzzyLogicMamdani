@@ -36,7 +36,6 @@ Teknik yang digunakan pada model fuzzy mamdani adaah centroid technique. Yaitu m
 Berikut hasilnya:
 COG = (0+10+20)x0.1+(30+40+50+60)x0.2+(70+80+90+100)x0.5 / 0.1+0.1+0.1+0.2+0.2+0.2+0.2+0.5+0.5+0.5+0.5 = 67,4.
 Centre of gravity digunakan untuk mencari titik yang membagi menjadi 2 bagian yang sama.
-gambar 3
 Namun jika menggunakan MOM (Min of Max) yaitu resiko dengan 80%.
 
 ![3](https://user-images.githubusercontent.com/44889084/115139939-f0aa6180-a05e-11eb-91f7-67b86d524c34.PNG)

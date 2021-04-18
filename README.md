@@ -32,7 +32,7 @@ Dengan korelasi aturan dan output seperti berikut :
 low = 0.1, normal = 0,2 dan high = 0,5.
 
 Kesimpulan
-Teknik yang digunakan pada model fuzzy mamdani adaah centroid technique. Yaitu metode ini mencari centre of gravity. 
+Teknik yang digunakan pada model fuzzy mamdani ada;ah centroid technique. Yaitu metode ini mencari centre of gravity. 
 Berikut hasilnya:
 COG = (0+10+20)x0.1+(30+40+50+60)x0.2+(70+80+90+100)x0.5 / 0.1+0.1+0.1+0.2+0.2+0.2+0.2+0.5+0.5+0.5+0.5 = 67,4.
 Centre of gravity digunakan untuk mencari titik yang membagi menjadi 2 bagian yang sama.

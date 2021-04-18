@@ -1,7 +1,7 @@
 # FuzzyLogicMamdani
 Fuzzy logic yang digunakan yaitu model fuzzy logic mamdani, dimana program ini berjalan menggunakan IPython / Jupyter Notebook. 
 
-Libarary yang digunakan :
+Library yang digunakan :
 1. Numpy
 2. Scikit-Fuzzy
 3. Matplotlib
